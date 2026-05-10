@@ -1,4 +1,4 @@
-# reesettiw programming portfolio
+# Reesettiw Programming Portfolio
 <br><br> 
 # City of Chicago Data Visualization 
 
@@ -22,11 +22,14 @@ Using a trained AI, I was able to code this guessing game. The goal is to let th
 <br><br> 
 
 # Movie Review Bot 
+
 Using another trained AI, I created a program that tells you whether a movie review is considered good or bad. This allows the users to decide whether they would want to see a chosen movie or not based off how genuine the AI things the author of the review was. 
+
 <img width="800" height="400" alt="Screenshot 2026-04-20 170604" src="https://github.com/user-attachments/assets/d7494a3a-8f1d-4817-8c0b-510e729ebe31" />
 <br><br> 
 
 # Website on the Housing Crisis in Chicago 
+
 I created this website with a JavaScript and Cascading Style Sheets. Along with HTML, I used these languages to create a functioning wesbtie about a cause I cared about. There are four different pages to break up the information I was trying to relay to the user. The third page titled "Resources" has multiple hyperlinks that take the user to additonal information outside the original site. 
 
 <img width="800" height="400" alt="Screenshot 2026-05-09 233954" src="https://github.com/user-attachments/assets/961d9831-9aba-439a-b22f-43ea9f3e31c4" />
